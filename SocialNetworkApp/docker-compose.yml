@@ -1,0 +1,35 @@
+version: '3.4'
+
+services:
+  socialnetworkapp:
+    image: ${DOCKER_REGISTRY-}socialnetworkapp
+    build:
+      context: .
+      dockerfile: SocialNetworkApp/Dockerfile
+    depends_on:
+        - sqlserverService
+    networks:
+        - socialnet
+    environment:
+        - ASPNETCORE_ENVIRONMENT=Development
+        - ASPNETCORE_URLS=https://+:443;http://+:80
+    ports:
+        - "80"
+        - "443"
+  sqlserverService:
+    image: mcr.microsoft.com/mssql/server:latest
+    hostname: sqlserverService
+    container_name: sqlserverService
+
+    environment:
+      ACCEPT_EULA: Y
+      SA_PASSWORD: BigPassw0rd1
+    volumes:
+      - ./data/mssql:/var/opt/mssql3
+    ports:
+      - 1433:1433
+    networks:
+      - socialnet
+networks:
+    socialnet:
+      driver: bridge
