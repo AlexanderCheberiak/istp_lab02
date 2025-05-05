@@ -1,0 +1,71 @@
+name: dockercompose12967781023592103406
+services:
+  socialnetworkapp:
+    build:
+      context: C:\Users\HP\Desktop\uni\ISTP\istp_lab02\SocialNetworkApp
+      dockerfile: SocialNetworkApp/Dockerfile
+    depends_on:
+      sqlserverService:
+        condition: service_started
+        required: true
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      ASPNETCORE_HTTPS_PORTS: "8081"
+      ASPNETCORE_URLS: http://+:80;https://+:443
+    image: socialnetworkapp
+    networks:
+      socialnet: null
+    ports:
+      - mode: ingress
+        target: 80
+        published: "80"
+        protocol: tcp
+      - mode: ingress
+        target: 443
+        published: "443"
+        protocol: tcp
+      - mode: ingress
+        target: 8080
+        protocol: tcp
+      - mode: ingress
+        target: 8081
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\HP\AppData\Roaming/Microsoft/UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\HP\AppData\Roaming/ASP.NET/Https
+        target: /home/app/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+  sqlserverService:
+    container_name: sqlserverService
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: BigPassw0rd1
+    hostname: sqlserverService
+    image: mcr.microsoft.com/mssql/server:latest
+    networks:
+      socialnet: null
+    ports:
+      - mode: ingress
+        target: 1433
+        published: "1433"
+        protocol: tcp
+    user: root
+    volumes:
+      - type: bind
+        source: C:\Users\HP\Desktop\uni\ISTP\istp_lab02\SocialNetworkApp\data\mssql
+        target: /var/opt/mssql
+        bind:
+          create_host_path: true
+networks:
+  socialnet:
+    name: dockercompose12967781023592103406_socialnet
+    driver: bridge

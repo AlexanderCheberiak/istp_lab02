@@ -14,7 +14,7 @@ namespace SocialNetworkApp.Models
 
         public DateTime RequestedAt { get; set; }
 
-        public virtual User User1 { get; set; }
-        public virtual User User2 { get; set; }
+        public virtual User? User1 { get; set; }
+        public virtual User? User2 { get; set; }
     }
 }

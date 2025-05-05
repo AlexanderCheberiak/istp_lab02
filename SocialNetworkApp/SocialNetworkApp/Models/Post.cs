@@ -12,7 +12,8 @@
 
         public DateTime CreatedAt { get; set; }
 
-        public virtual Community Community { get; set; }
-        public virtual User Author { get; set; }
+        public virtual Community? Community { get; set; }
+        public virtual User? Author { get; set; }
+
     }
 }

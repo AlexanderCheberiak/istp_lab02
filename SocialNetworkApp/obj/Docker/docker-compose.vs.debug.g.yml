@@ -1,7 +1,6 @@
 services:
   socialnetworkapp:
     image: socialnetworkapp:dev
-    container_name: "SocialNetworkApp_1"
     build:
       args:
         LAUNCHING_FROM_VS: true

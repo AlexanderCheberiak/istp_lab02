@@ -12,24 +12,27 @@ services:
         - socialnet
     environment:
         - ASPNETCORE_ENVIRONMENT=Development
-        - ASPNETCORE_URLS=https://+:443;http://+:80
+        - ASPNETCORE_URLS=http://+:80;https://+:443
     ports:
-        - "80"
-        - "443"
+        - "80:80"
+        - "443:443"
+  
   sqlserverService:
     image: mcr.microsoft.com/mssql/server:latest
     hostname: sqlserverService
     container_name: sqlserverService
-
     environment:
       ACCEPT_EULA: Y
       SA_PASSWORD: BigPassw0rd1
     volumes:
-      - ./data/mssql:/var/opt/mssql3
+       - ./data/mssql:/var/opt/mssql
     ports:
-      - 1433:1433
+       - "1433:1433"
     networks:
-      - socialnet
+       - socialnet
+    user: root  # Runs the container as root
+
+
 networks:
-    socialnet:
-      driver: bridge
+  socialnet:
+    driver: bridge

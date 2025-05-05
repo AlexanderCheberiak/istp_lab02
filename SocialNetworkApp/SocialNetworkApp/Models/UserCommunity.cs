@@ -14,7 +14,7 @@ namespace SocialNetworkApp.Models
 
         public string Role { get; set; }
 
-        public virtual User User { get; set; }
-        public virtual Community Community { get; set; }
+        public virtual User? User { get; set; }
+        public virtual Community? Community { get; set; }
     }
 }
