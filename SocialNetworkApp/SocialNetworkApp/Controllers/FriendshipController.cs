@@ -59,6 +59,11 @@ namespace SocialNetworkApp.Controllers
                 return BadRequest("Invalid UserId");
             }
 
+            if(user1 == user2)
+            {
+                return BadRequest("Friendship is not a reflexive relation!");
+            }
+
             friendship.User1 = user1;
             friendship.User2 = user2;
 

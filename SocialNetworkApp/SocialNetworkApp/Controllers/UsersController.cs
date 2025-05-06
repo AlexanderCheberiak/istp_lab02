@@ -4,6 +4,7 @@ using SocialNetworkApp.Models;
 using SocialNetworkApp.Models.SocialNetworkApp.Models;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace SocialNetworkApp.Controllers
@@ -52,6 +53,18 @@ namespace SocialNetworkApp.Controllers
         [HttpPost]
         public async Task<ActionResult<User>> PostUser(User user)
         {
+            var phoneRegex = new Regex(@"^380\d{9}$");
+            if (!phoneRegex.IsMatch(user.UserPhone))
+            {
+                return BadRequest(new { message = "Phone number must be in the format 380XXXXXXXXX (12 digits)." });
+            }
+
+            bool phoneExists = await _context.Users.AnyAsync(u => u.UserPhone == user.UserPhone);
+            if (phoneExists)
+            {
+                return Conflict(new { message = "A user with this phone number already exists." });
+            }
+
             _context.Users.Add(user);
             await _context.SaveChangesAsync();
 
@@ -68,6 +81,11 @@ namespace SocialNetworkApp.Controllers
             }
 
             _context.Entry(user).State = EntityState.Modified;
+            var phoneRegex = new Regex(@"^380\d{9}$");
+            if (!phoneRegex.IsMatch(user.UserPhone))
+            {
+                return BadRequest(new { message = "Phone number must be in the format 380XXXXXXXXX (12 digits)." });
+            }
 
             try
             {
