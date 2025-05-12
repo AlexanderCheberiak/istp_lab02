@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\wwwroot\\Index.html",
+      "PackagePath": "staticwebassets\\Index.html"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\wwwroot\\communities.html",
+      "PackagePath": "staticwebassets\\communities.html"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\wwwroot\\js\\communities.js",
+      "PackagePath": "staticwebassets\\js\\communities.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\wwwroot\\js\\users.js",
+      "PackagePath": "staticwebassets\\js\\users.js"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.SocialNetworkApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.SocialNetworkApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.SocialNetworkApp.props",
+      "PackagePath": "build\\SocialNetworkApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.SocialNetworkApp.props",
+      "PackagePath": "buildMultiTargeting\\SocialNetworkApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.SocialNetworkApp.props",
+      "PackagePath": "buildTransitive\\SocialNetworkApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

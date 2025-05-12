@@ -3,20 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|c:\\users\\hp\\desktop\\uni\\istp\\istp_lab02\\socialnetworkapp\\socialnetworkapp\\controllers\\friendshipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|solutionrelative:socialnetworkapp\\controllers\\friendshipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|c:\\users\\hp\\desktop\\uni\\istp\\istp_lab02\\socialnetworkapp\\socialnetworkapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|solutionrelative:socialnetworkapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|c:\\users\\hp\\desktop\\uni\\istp\\istp_lab02\\socialnetworkapp\\socialnetworkapp\\controllers\\usercommunitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|solutionrelative:socialnetworkapp\\controllers\\usercommunitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|c:\\users\\hp\\desktop\\uni\\istp\\istp_lab02\\socialnetworkapp\\socialnetworkapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|solutionrelative:socialnetworkapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|c:\\users\\hp\\desktop\\uni\\istp\\istp_lab02\\socialnetworkapp\\socialnetworkapp\\wwwroot\\communities.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|solutionrelative:socialnetworkapp\\wwwroot\\communities.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|c:\\users\\hp\\desktop\\uni\\istp\\istp_lab02\\socialnetworkapp\\socialnetworkapp\\wwwroot\\js\\communities.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|solutionrelative:socialnetworkapp\\wwwroot\\js\\communities.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|c:\\users\\hp\\desktop\\uni\\istp\\istp_lab02\\socialnetworkapp\\socialnetworkapp\\controllers\\communitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|solutionrelative:socialnetworkapp\\controllers\\communitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|c:\\users\\hp\\desktop\\uni\\istp\\istp_lab02\\socialnetworkapp\\socialnetworkapp\\models\\community.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|solutionrelative:socialnetworkapp\\models\\community.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|c:\\users\\hp\\desktop\\uni\\istp\\istp_lab02\\socialnetworkapp\\socialnetworkapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|solutionrelative:socialnetworkapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|c:\\users\\hp\\desktop\\uni\\istp\\istp_lab02\\socialnetworkapp\\socialnetworkapp\\wwwroot\\js\\users.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|solutionrelative:socialnetworkapp\\wwwroot\\js\\users.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|c:\\users\\hp\\desktop\\uni\\istp\\istp_lab02\\socialnetworkapp\\socialnetworkapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|solutionrelative:socialnetworkapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|c:\\users\\hp\\desktop\\uni\\istp\\istp_lab02\\socialnetworkapp\\socialnetworkapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|solutionrelative:socialnetworkapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|c:\\users\\hp\\desktop\\uni\\istp\\istp_lab02\\socialnetworkapp\\socialnetworkapp\\socialnetworkapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|solutionrelative:socialnetworkapp\\socialnetworkapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|c:\\users\\hp\\desktop\\uni\\istp\\istp_lab02\\socialnetworkapp\\socialnetworkapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|solutionrelative:socialnetworkapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|c:\\users\\hp\\desktop\\uni\\istp\\istp_lab02\\socialnetworkapp\\socialnetworkapp\\controllers\\friendshipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|solutionrelative:socialnetworkapp\\controllers\\friendshipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|c:\\users\\hp\\desktop\\uni\\istp\\istp_lab02\\socialnetworkapp\\socialnetworkapp\\controllers\\usercommunitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|solutionrelative:socialnetworkapp\\controllers\\usercommunitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|c:\\users\\hp\\desktop\\uni\\istp\\istp_lab02\\socialnetworkapp\\socialnetworkapp\\models\\usercommunity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,28 +75,8 @@
       "RelativeMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|solutionrelative:socialnetworkapp\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|c:\\users\\hp\\desktop\\uni\\istp\\istp_lab02\\socialnetworkapp\\socialnetworkapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|solutionrelative:socialnetworkapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|c:\\users\\hp\\desktop\\uni\\istp\\istp_lab02\\socialnetworkapp\\socialnetworkapp\\models\\socialnetworkcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|solutionrelative:socialnetworkapp\\models\\socialnetworkcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|c:\\users\\hp\\desktop\\uni\\istp\\istp_lab02\\socialnetworkapp\\socialnetworkapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|solutionrelative:socialnetworkapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|c:\\users\\hp\\desktop\\uni\\istp\\istp_lab02\\socialnetworkapp\\socialnetworkapp\\socialnetworkapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|solutionrelative:socialnetworkapp\\socialnetworkapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|c:\\users\\hp\\desktop\\uni\\istp\\istp_lab02\\socialnetworkapp\\socialnetworkapp\\controllers\\communitiescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|solutionrelative:socialnetworkapp\\controllers\\communitiescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|c:\\users\\hp\\desktop\\uni\\istp\\istp_lab02\\socialnetworkapp\\socialnetworkapp\\models\\community.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|solutionrelative:socialnetworkapp\\models\\community.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53906285-F649-4E90-A4BC-A7F55A2196F9}|SocialNetworkApp\\SocialNetworkApp.csproj|c:\\users\\hp\\desktop\\uni\\istp\\istp_lab02\\socialnetworkapp\\socialnetworkapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -83,154 +103,83 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FriendshipController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Controllers\\FriendshipController.cs",
-              "RelativeDocumentMoniker": "SocialNetworkApp\\Controllers\\FriendshipController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Controllers\\FriendshipController.cs",
-              "RelativeToolTip": "SocialNetworkApp\\Controllers\\FriendshipController.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAQwEYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T11:54:55.198Z",
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "SocialNetworkApp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "SocialNetworkApp\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-11T08:03:15.537Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Friendship.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Models\\Friendship.cs",
-              "RelativeDocumentMoniker": "SocialNetworkApp\\Models\\Friendship.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Models\\Friendship.cs",
-              "RelativeToolTip": "SocialNetworkApp\\Models\\Friendship.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBEAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T15:56:46.804Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserCommunity.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Models\\UserCommunity.cs",
-              "RelativeDocumentMoniker": "SocialNetworkApp\\Models\\UserCommunity.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Models\\UserCommunity.cs",
-              "RelativeToolTip": "SocialNetworkApp\\Models\\UserCommunity.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T15:56:04.35Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserCommunitiesController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Controllers\\UserCommunitiesController.cs",
-              "RelativeDocumentMoniker": "SocialNetworkApp\\Controllers\\UserCommunitiesController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Controllers\\UserCommunitiesController.cs",
-              "RelativeToolTip": "SocialNetworkApp\\Controllers\\UserCommunitiesController.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAQwEAAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T11:58:26.014Z",
+              "DocumentIndex": 3,
+              "Title": "communities.js",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\wwwroot\\js\\communities.js",
+              "RelativeDocumentMoniker": "SocialNetworkApp\\wwwroot\\js\\communities.js",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\wwwroot\\js\\communities.js",
+              "RelativeToolTip": "SocialNetworkApp\\wwwroot\\js\\communities.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-11T07:50:11.591Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "communities.html",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\wwwroot\\communities.html",
+              "RelativeDocumentMoniker": "SocialNetworkApp\\wwwroot\\communities.html",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\wwwroot\\communities.html",
+              "RelativeToolTip": "SocialNetworkApp\\wwwroot\\communities.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-11T07:49:45.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.html",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\wwwroot\\Index.html",
+              "RelativeDocumentMoniker": "SocialNetworkApp\\wwwroot\\Index.html",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\wwwroot\\Index.html",
+              "RelativeToolTip": "SocialNetworkApp\\wwwroot\\Index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-09T11:40:08.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "SocialNetworkApp\\Controllers\\UsersController.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Controllers\\UsersController.cs",
               "RelativeToolTip": "SocialNetworkApp\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAQwFUAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-03T11:47:57.327Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Models\\User.cs",
-              "RelativeDocumentMoniker": "SocialNetworkApp\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Models\\User.cs",
-              "RelativeToolTip": "SocialNetworkApp\\Models\\User.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T15:41:53.48Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PostsController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Controllers\\PostsController.cs",
-              "RelativeDocumentMoniker": "SocialNetworkApp\\Controllers\\PostsController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Controllers\\PostsController.cs",
-              "RelativeToolTip": "SocialNetworkApp\\Controllers\\PostsController.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAqwD8AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T11:56:03.572Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SocialNetworkContext.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Models\\SocialNetworkContext.cs",
-              "RelativeDocumentMoniker": "SocialNetworkApp\\Models\\SocialNetworkContext.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Models\\SocialNetworkContext.cs",
-              "RelativeToolTip": "SocialNetworkApp\\Models\\SocialNetworkContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T16:06:57.899Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Program.cs",
               "RelativeDocumentMoniker": "SocialNetworkApp\\Program.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Program.cs",
               "RelativeToolTip": "SocialNetworkApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T16:16:43.8Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Post.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Models\\Post.cs",
-              "RelativeDocumentMoniker": "SocialNetworkApp\\Models\\Post.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Models\\Post.cs",
-              "RelativeToolTip": "SocialNetworkApp\\Models\\Post.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA3wA8AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T15:55:04.626Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CommunitiesContext.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Controllers\\CommunitiesContext.cs",
-              "RelativeDocumentMoniker": "SocialNetworkApp\\Controllers\\CommunitiesContext.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Controllers\\CommunitiesContext.cs",
-              "RelativeToolTip": "SocialNetworkApp\\Controllers\\CommunitiesContext.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAswCEAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T11:57:21.149Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\appsettings.json",
-              "RelativeDocumentMoniker": "SocialNetworkApp\\appsettings.json",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\appsettings.json",
-              "RelativeToolTip": "SocialNetworkApp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACrAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-26T16:07:36.924Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "SocialNetworkApp.csproj",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\SocialNetworkApp.csproj",
               "RelativeDocumentMoniker": "SocialNetworkApp\\SocialNetworkApp.csproj",
@@ -242,19 +191,153 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 4,
+              "Title": "CommunitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Controllers\\CommunitiesController.cs",
+              "RelativeDocumentMoniker": "SocialNetworkApp\\Controllers\\CommunitiesController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Controllers\\CommunitiesController.cs",
+              "RelativeToolTip": "SocialNetworkApp\\Controllers\\CommunitiesController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAwG0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T11:57:21.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Community.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Models\\Community.cs",
               "RelativeDocumentMoniker": "SocialNetworkApp\\Models\\Community.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Models\\Community.cs",
               "RelativeToolTip": "SocialNetworkApp\\Models\\Community.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T15:54:40.735Z"
+              "WhenOpened": "2025-04-26T15:54:40.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SocialNetworkApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Models\\User.cs",
+              "RelativeToolTip": "SocialNetworkApp\\Models\\User.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA/wCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T15:41:53.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FriendshipController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Controllers\\FriendshipController.cs",
+              "RelativeDocumentMoniker": "SocialNetworkApp\\Controllers\\FriendshipController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Controllers\\FriendshipController.cs",
+              "RelativeToolTip": "SocialNetworkApp\\Controllers\\FriendshipController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T11:54:55.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "users.js",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\wwwroot\\js\\users.js",
+              "RelativeDocumentMoniker": "SocialNetworkApp\\wwwroot\\js\\users.js",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\wwwroot\\js\\users.js",
+              "RelativeToolTip": "SocialNetworkApp\\wwwroot\\js\\users.js",
+              "ViewState": "AgIAACUAAAAAAAAAAAAswCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-09T11:41:25.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\appsettings.json",
+              "RelativeDocumentMoniker": "SocialNetworkApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\appsettings.json",
+              "RelativeToolTip": "SocialNetworkApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-26T16:07:36.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserCommunitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Controllers\\UserCommunitiesController.cs",
+              "RelativeDocumentMoniker": "SocialNetworkApp\\Controllers\\UserCommunitiesController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Controllers\\UserCommunitiesController.cs",
+              "RelativeToolTip": "SocialNetworkApp\\Controllers\\UserCommunitiesController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAQwEAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T11:58:26.014Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "UserCommunity.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Models\\UserCommunity.cs",
+              "RelativeDocumentMoniker": "SocialNetworkApp\\Models\\UserCommunity.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Models\\UserCommunity.cs",
+              "RelativeToolTip": "SocialNetworkApp\\Models\\UserCommunity.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T15:56:04.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Friendship.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Models\\Friendship.cs",
+              "RelativeDocumentMoniker": "SocialNetworkApp\\Models\\Friendship.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Models\\Friendship.cs",
+              "RelativeToolTip": "SocialNetworkApp\\Models\\Friendship.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T15:56:46.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "SocialNetworkApp\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "SocialNetworkApp\\Controllers\\PostsController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAqwD8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T11:56:03.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SocialNetworkContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Models\\SocialNetworkContext.cs",
+              "RelativeDocumentMoniker": "SocialNetworkApp\\Models\\SocialNetworkContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Models\\SocialNetworkContext.cs",
+              "RelativeToolTip": "SocialNetworkApp\\Models\\SocialNetworkContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T16:06:57.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "SocialNetworkApp\\Models\\Post.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Models\\Post.cs",
+              "RelativeToolTip": "SocialNetworkApp\\Models\\Post.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T15:55:04.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "SocialNetworkApp\\Properties\\launchSettings.json",

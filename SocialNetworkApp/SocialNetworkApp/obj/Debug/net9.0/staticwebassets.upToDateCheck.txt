@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\uni\ISTP\istp_lab02\SocialNetworkApp\SocialNetworkApp\wwwroot\js\communities.js
+C:\Users\HP\Desktop\uni\ISTP\istp_lab02\SocialNetworkApp\SocialNetworkApp\wwwroot\communities.html
+C:\Users\HP\Desktop\uni\ISTP\istp_lab02\SocialNetworkApp\SocialNetworkApp\wwwroot\Index.html
+C:\Users\HP\Desktop\uni\ISTP\istp_lab02\SocialNetworkApp\SocialNetworkApp\wwwroot\js\users.js
+C:\Users\HP\Desktop\uni\ISTP\istp_lab02\SocialNetworkApp\SocialNetworkApp\wwwroot\css\site.css
+wwwroot\communities.html
+wwwroot\css\site.css
+wwwroot\Index.html
+wwwroot\js\communities.js
+wwwroot\js\users.js

@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Communities Management</title>
+    <link rel="stylesheet" href="css/site.css" />
+</head>
+<body>
+    <h1>Communities</h1>
+
+    <h3>Add Community</h3>
+    <form action="javascript:void(0);" onsubmit="addCommunity()">
+        <input type="text" id="add-name" placeholder="Community Name" required />
+        <input type="text" id="add-description" placeholder="Description" />
+        <input type="date" id="add-created-at" />
+        <input type="submit" value="Add" />
+    </form>
+
+    <div id="editForm" style="display:none;">
+        <h3>Edit Community</h3>
+        <form action="javascript:void(0);" onsubmit="updateCommunity()">
+            <input type="hidden" id="edit-id" />
+            <input type="text" id="edit-name" required />
+            <input type="text" id="edit-description" />
+            <input type="date" id="edit-created-at" />
+            <input type="submit" value="Save" />
+            <button onclick="closeEditForm()">Cancel</button>
+        </form>
+    </div>
+
+    <p id="counter"></p>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Created At</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody id="communities"></tbody>
+    </table>
+
+    <script src="js/communities.js"></script>
+    <script>getCommunities();</script>
+</body>
+</html>
