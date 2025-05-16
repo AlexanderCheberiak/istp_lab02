@@ -269,8 +269,8 @@ C:\Users\HP\Desktop\uni\ISTP\istp_lab02\SocialNetworkApp\SocialNetworkApp\obj\De
 C:\Users\HP\Desktop\uni\ISTP\istp_lab02\SocialNetworkApp\SocialNetworkApp\obj\Debug\net9.0\SocialNetworkApp.genruntimeconfig.cache
 C:\Users\HP\Desktop\uni\ISTP\istp_lab02\SocialNetworkApp\SocialNetworkApp\obj\Debug\net9.0\ref\SocialNetworkApp.dll
 C:\Users\HP\Desktop\uni\ISTP\istp_lab02\SocialNetworkApp\SocialNetworkApp\bin\Debug\net9.0\SocialNetworkApp.staticwebassets.runtime.json
-C:\Users\HP\Desktop\uni\ISTP\istp_lab02\SocialNetworkApp\SocialNetworkApp\obj\Debug\net9.0\compressed\lwokr8wgc4-xa61n5kmkh.gz
 C:\Users\HP\Desktop\uni\ISTP\istp_lab02\SocialNetworkApp\SocialNetworkApp\obj\Debug\net9.0\compressed\nmhmoqyd8v-sp2ir8olld.gz
-C:\Users\HP\Desktop\uni\ISTP\istp_lab02\SocialNetworkApp\SocialNetworkApp\obj\Debug\net9.0\compressed\hbtp09j12v-spxz504pd0.gz
 C:\Users\HP\Desktop\uni\ISTP\istp_lab02\SocialNetworkApp\SocialNetworkApp\obj\Debug\net9.0\compressed\tj1nb6db1e-hkp8fkxtr5.gz
 C:\Users\HP\Desktop\uni\ISTP\istp_lab02\SocialNetworkApp\SocialNetworkApp\obj\Debug\net9.0\compressed\5dz6pbqgxo-gp0uie0nsc.gz
+C:\Users\HP\Desktop\uni\ISTP\istp_lab02\SocialNetworkApp\SocialNetworkApp\obj\Debug\net9.0\compressed\hbtp09j12v-82oxgdvy7m.gz
+C:\Users\HP\Desktop\uni\ISTP\istp_lab02\SocialNetworkApp\SocialNetworkApp\obj\Debug\net9.0\compressed\lwokr8wgc4-tw9ifn2cjf.gz

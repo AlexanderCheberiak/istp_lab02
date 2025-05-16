@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dOWN2pEsAItALUGw1CDWY+k5biu98PA3Q3eIPqq9fO8=",
+  "Hash": "X0MMRvtZqHXoxNsEjZhGUL8LbeersOawR0hUZndm25I=",
   "Source": "SocialNetworkApp",
   "BasePath": "_content/SocialNetworkApp",
   "Mode": "Default",
@@ -38,12 +38,12 @@
       "OriginalItemSpec": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\wwwroot\\js\\communities.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\obj\\Debug\\net9.0\\compressed\\hbtp09j12v-spxz504pd0.gz",
+      "Identity": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\obj\\Debug\\net9.0\\compressed\\hbtp09j12v-82oxgdvy7m.gz",
       "SourceId": "SocialNetworkApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/SocialNetworkApp",
-      "RelativePath": "communities#[.{fingerprint=spxz504pd0}]?.html.gz",
+      "RelativePath": "communities#[.{fingerprint=82oxgdvy7m}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -52,19 +52,19 @@
       "RelatedAsset": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\wwwroot\\communities.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "mhmpolp945",
-      "Integrity": "5mUWN2spcOqdIrz3HcMOzYeejW8mzXS3CrSlKvv5B/Y=",
+      "Fingerprint": "o1uctz5fky",
+      "Integrity": "5CM+MaF5Zzf2fSB64eWug7ETqTt6PPA47BBZwOL3pBI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\wwwroot\\communities.html"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\obj\\Debug\\net9.0\\compressed\\lwokr8wgc4-xa61n5kmkh.gz",
+      "Identity": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\obj\\Debug\\net9.0\\compressed\\lwokr8wgc4-tw9ifn2cjf.gz",
       "SourceId": "SocialNetworkApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/SocialNetworkApp",
-      "RelativePath": "Index#[.{fingerprint=xa61n5kmkh}]?.html.gz",
+      "RelativePath": "Index#[.{fingerprint=tw9ifn2cjf}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -73,8 +73,8 @@
       "RelatedAsset": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\wwwroot\\Index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "1we22o4wec",
-      "Integrity": "4ZkWMQpsT9tInvAzPbBmt/xYCrSMEoAdRu4qZ0FtvXo=",
+      "Fingerprint": "pw8d8hl7ez",
+      "Integrity": "p5UqW+7sOIrUzfePL7vW+koI0L040Pj3zUIoDg4sbOk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\wwwroot\\Index.html"
@@ -136,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "spxz504pd0",
-      "Integrity": "kMWYKR/RlF6maecr/i/vds0Dnl27UK0gxrakkeKDSlM=",
+      "Fingerprint": "82oxgdvy7m",
+      "Integrity": "8DM9eo88ByfacH+Q96WkZDDVNulkV/iIGyiALsP6ZjY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\communities.html"
@@ -178,8 +178,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "xa61n5kmkh",
-      "Integrity": "KUEShZUIRQIrHCYHkNFEFtgxxgP8RWfISI+ANNXoTgk=",
+      "Fingerprint": "tw9ifn2cjf",
+      "Integrity": "U7KVq9UAU763z2Ck8tc6vgT70is8r9xdjNHWD60GPYo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Index.html"
@@ -229,13 +229,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "communities.html",
-      "AssetFile": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\obj\\Debug\\net9.0\\compressed\\hbtp09j12v-spxz504pd0.gz",
+      "Route": "communities.82oxgdvy7m.html",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\obj\\Debug\\net9.0\\compressed\\hbtp09j12v-82oxgdvy7m.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001808318264"
+          "Quality": "0.001564945227"
         }
       ],
       "ResponseHeaders": [
@@ -245,19 +245,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "552"
+          "Value": "638"
         },
         {
           "Name": "ETag",
-          "Value": "\"5mUWN2spcOqdIrz3HcMOzYeejW8mzXS3CrSlKvv5B/Y=\""
+          "Value": "\"5CM+MaF5Zzf2fSB64eWug7ETqTt6PPA47BBZwOL3pBI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 08:04:00 GMT"
+          "Value": "Tue, 13 May 2025 06:11:24 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -273,18 +273,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"kMWYKR/RlF6maecr/i/vds0Dnl27UK0gxrakkeKDSlM=\""
+          "Value": "W/\"8DM9eo88ByfacH+Q96WkZDDVNulkV/iIGyiALsP6ZjY=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "82oxgdvy7m"
+        },
+        {
+          "Name": "label",
+          "Value": "communities.html"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-kMWYKR/RlF6maecr/i/vds0Dnl27UK0gxrakkeKDSlM="
+          "Value": "sha256-8DM9eo88ByfacH+Q96WkZDDVNulkV/iIGyiALsP6ZjY="
         }
       ]
     },
     {
-      "Route": "communities.html",
+      "Route": "communities.82oxgdvy7m.html",
       "AssetFile": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\wwwroot\\communities.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -294,7 +302,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1506"
+          "Value": "1590"
         },
         {
           "Name": "Content-Type",
@@ -302,121 +310,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kMWYKR/RlF6maecr/i/vds0Dnl27UK0gxrakkeKDSlM=\""
+          "Value": "\"8DM9eo88ByfacH+Q96WkZDDVNulkV/iIGyiALsP6ZjY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 08:04:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-kMWYKR/RlF6maecr/i/vds0Dnl27UK0gxrakkeKDSlM="
-        }
-      ]
-    },
-    {
-      "Route": "communities.html.gz",
-      "AssetFile": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\obj\\Debug\\net9.0\\compressed\\hbtp09j12v-spxz504pd0.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "552"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5mUWN2spcOqdIrz3HcMOzYeejW8mzXS3CrSlKvv5B/Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 08:04:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-5mUWN2spcOqdIrz3HcMOzYeejW8mzXS3CrSlKvv5B/Y="
-        }
-      ]
-    },
-    {
-      "Route": "communities.spxz504pd0.html",
-      "AssetFile": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\obj\\Debug\\net9.0\\compressed\\hbtp09j12v-spxz504pd0.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001808318264"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "552"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5mUWN2spcOqdIrz3HcMOzYeejW8mzXS3CrSlKvv5B/Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 08:04:00 GMT"
+          "Value": "Tue, 13 May 2025 06:11:24 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"kMWYKR/RlF6maecr/i/vds0Dnl27UK0gxrakkeKDSlM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "spxz504pd0"
+          "Value": "82oxgdvy7m"
         },
         {
           "Name": "label",
@@ -424,13 +332,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-kMWYKR/RlF6maecr/i/vds0Dnl27UK0gxrakkeKDSlM="
+          "Value": "sha256-8DM9eo88ByfacH+Q96WkZDDVNulkV/iIGyiALsP6ZjY="
         }
       ]
     },
     {
-      "Route": "communities.spxz504pd0.html",
-      "AssetFile": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\wwwroot\\communities.html",
+      "Route": "communities.82oxgdvy7m.html.gz",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\obj\\Debug\\net9.0\\compressed\\hbtp09j12v-82oxgdvy7m.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -439,7 +347,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1506"
+          "Value": "638"
         },
         {
           "Name": "Content-Type",
@@ -447,56 +355,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kMWYKR/RlF6maecr/i/vds0Dnl27UK0gxrakkeKDSlM=\""
+          "Value": "\"5CM+MaF5Zzf2fSB64eWug7ETqTt6PPA47BBZwOL3pBI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 08:04:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "spxz504pd0"
-        },
-        {
-          "Name": "label",
-          "Value": "communities.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-kMWYKR/RlF6maecr/i/vds0Dnl27UK0gxrakkeKDSlM="
-        }
-      ]
-    },
-    {
-      "Route": "communities.spxz504pd0.html.gz",
-      "AssetFile": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\obj\\Debug\\net9.0\\compressed\\hbtp09j12v-spxz504pd0.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "552"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5mUWN2spcOqdIrz3HcMOzYeejW8mzXS3CrSlKvv5B/Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 08:04:00 GMT"
+          "Value": "Tue, 13 May 2025 06:11:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -514,7 +377,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "spxz504pd0"
+          "Value": "82oxgdvy7m"
         },
         {
           "Name": "label",
@@ -522,7 +385,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-5mUWN2spcOqdIrz3HcMOzYeejW8mzXS3CrSlKvv5B/Y="
+          "Value": "sha256-5CM+MaF5Zzf2fSB64eWug7ETqTt6PPA47BBZwOL3pBI="
+        }
+      ]
+    },
+    {
+      "Route": "communities.html",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\obj\\Debug\\net9.0\\compressed\\hbtp09j12v-82oxgdvy7m.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001564945227"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "638"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5CM+MaF5Zzf2fSB64eWug7ETqTt6PPA47BBZwOL3pBI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 06:11:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8DM9eo88ByfacH+Q96WkZDDVNulkV/iIGyiALsP6ZjY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8DM9eo88ByfacH+Q96WkZDDVNulkV/iIGyiALsP6ZjY="
+        }
+      ]
+    },
+    {
+      "Route": "communities.html",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\wwwroot\\communities.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1590"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8DM9eo88ByfacH+Q96WkZDDVNulkV/iIGyiALsP6ZjY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 06:11:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8DM9eo88ByfacH+Q96WkZDDVNulkV/iIGyiALsP6ZjY="
+        }
+      ]
+    },
+    {
+      "Route": "communities.html.gz",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\obj\\Debug\\net9.0\\compressed\\hbtp09j12v-82oxgdvy7m.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "638"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5CM+MaF5Zzf2fSB64eWug7ETqTt6PPA47BBZwOL3pBI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 06:11:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5CM+MaF5Zzf2fSB64eWug7ETqTt6PPA47BBZwOL3pBI="
         }
       ]
     },
@@ -826,12 +826,12 @@
     },
     {
       "Route": "Index.html",
-      "AssetFile": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\obj\\Debug\\net9.0\\compressed\\lwokr8wgc4-xa61n5kmkh.gz",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\obj\\Debug\\net9.0\\compressed\\lwokr8wgc4-tw9ifn2cjf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001522070015"
+          "Quality": "0.001228501229"
         }
       ],
       "ResponseHeaders": [
@@ -841,15 +841,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "656"
+          "Value": "813"
         },
         {
           "Name": "ETag",
-          "Value": "\"4ZkWMQpsT9tInvAzPbBmt/xYCrSMEoAdRu4qZ0FtvXo=\""
+          "Value": "\"p5UqW+7sOIrUzfePL7vW+koI0L040Pj3zUIoDg4sbOk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 11:59:04 GMT"
+          "Value": "Tue, 13 May 2025 06:09:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -869,13 +869,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"KUEShZUIRQIrHCYHkNFEFtgxxgP8RWfISI+ANNXoTgk=\""
+          "Value": "W/\"U7KVq9UAU763z2Ck8tc6vgT70is8r9xdjNHWD60GPYo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-KUEShZUIRQIrHCYHkNFEFtgxxgP8RWfISI+ANNXoTgk="
+          "Value": "sha256-U7KVq9UAU763z2Ck8tc6vgT70is8r9xdjNHWD60GPYo="
         }
       ]
     },
@@ -890,7 +890,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2078"
+          "Value": "2277"
         },
         {
           "Name": "Content-Type",
@@ -898,11 +898,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KUEShZUIRQIrHCYHkNFEFtgxxgP8RWfISI+ANNXoTgk=\""
+          "Value": "\"U7KVq9UAU763z2Ck8tc6vgT70is8r9xdjNHWD60GPYo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 11:59:04 GMT"
+          "Value": "Tue, 13 May 2025 06:09:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -912,13 +912,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-KUEShZUIRQIrHCYHkNFEFtgxxgP8RWfISI+ANNXoTgk="
+          "Value": "sha256-U7KVq9UAU763z2Ck8tc6vgT70is8r9xdjNHWD60GPYo="
         }
       ]
     },
     {
       "Route": "Index.html.gz",
-      "AssetFile": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\obj\\Debug\\net9.0\\compressed\\lwokr8wgc4-xa61n5kmkh.gz",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\obj\\Debug\\net9.0\\compressed\\lwokr8wgc4-tw9ifn2cjf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -927,7 +927,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "656"
+          "Value": "813"
         },
         {
           "Name": "Content-Type",
@@ -935,11 +935,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4ZkWMQpsT9tInvAzPbBmt/xYCrSMEoAdRu4qZ0FtvXo=\""
+          "Value": "\"p5UqW+7sOIrUzfePL7vW+koI0L040Pj3zUIoDg4sbOk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 11:59:04 GMT"
+          "Value": "Tue, 13 May 2025 06:09:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -957,18 +957,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4ZkWMQpsT9tInvAzPbBmt/xYCrSMEoAdRu4qZ0FtvXo="
+          "Value": "sha256-p5UqW+7sOIrUzfePL7vW+koI0L040Pj3zUIoDg4sbOk="
         }
       ]
     },
     {
-      "Route": "Index.xa61n5kmkh.html",
-      "AssetFile": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\obj\\Debug\\net9.0\\compressed\\lwokr8wgc4-xa61n5kmkh.gz",
+      "Route": "Index.tw9ifn2cjf.html",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\obj\\Debug\\net9.0\\compressed\\lwokr8wgc4-tw9ifn2cjf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001522070015"
+          "Quality": "0.001228501229"
         }
       ],
       "ResponseHeaders": [
@@ -978,15 +978,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "656"
+          "Value": "813"
         },
         {
           "Name": "ETag",
-          "Value": "\"4ZkWMQpsT9tInvAzPbBmt/xYCrSMEoAdRu4qZ0FtvXo=\""
+          "Value": "\"p5UqW+7sOIrUzfePL7vW+koI0L040Pj3zUIoDg4sbOk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 11:59:04 GMT"
+          "Value": "Tue, 13 May 2025 06:09:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1006,13 +1006,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"KUEShZUIRQIrHCYHkNFEFtgxxgP8RWfISI+ANNXoTgk=\""
+          "Value": "W/\"U7KVq9UAU763z2Ck8tc6vgT70is8r9xdjNHWD60GPYo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xa61n5kmkh"
+          "Value": "tw9ifn2cjf"
         },
         {
           "Name": "label",
@@ -1020,12 +1020,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-KUEShZUIRQIrHCYHkNFEFtgxxgP8RWfISI+ANNXoTgk="
+          "Value": "sha256-U7KVq9UAU763z2Ck8tc6vgT70is8r9xdjNHWD60GPYo="
         }
       ]
     },
     {
-      "Route": "Index.xa61n5kmkh.html",
+      "Route": "Index.tw9ifn2cjf.html",
       "AssetFile": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\wwwroot\\Index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1035,7 +1035,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2078"
+          "Value": "2277"
         },
         {
           "Name": "Content-Type",
@@ -1043,11 +1043,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KUEShZUIRQIrHCYHkNFEFtgxxgP8RWfISI+ANNXoTgk=\""
+          "Value": "\"U7KVq9UAU763z2Ck8tc6vgT70is8r9xdjNHWD60GPYo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 11:59:04 GMT"
+          "Value": "Tue, 13 May 2025 06:09:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1057,7 +1057,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xa61n5kmkh"
+          "Value": "tw9ifn2cjf"
         },
         {
           "Name": "label",
@@ -1065,13 +1065,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-KUEShZUIRQIrHCYHkNFEFtgxxgP8RWfISI+ANNXoTgk="
+          "Value": "sha256-U7KVq9UAU763z2Ck8tc6vgT70is8r9xdjNHWD60GPYo="
         }
       ]
     },
     {
-      "Route": "Index.xa61n5kmkh.html.gz",
-      "AssetFile": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\obj\\Debug\\net9.0\\compressed\\lwokr8wgc4-xa61n5kmkh.gz",
+      "Route": "Index.tw9ifn2cjf.html.gz",
+      "AssetFile": "C:\\Users\\HP\\Desktop\\uni\\ISTP\\istp_lab02\\SocialNetworkApp\\SocialNetworkApp\\obj\\Debug\\net9.0\\compressed\\lwokr8wgc4-tw9ifn2cjf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1080,7 +1080,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "656"
+          "Value": "813"
         },
         {
           "Name": "Content-Type",
@@ -1088,11 +1088,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4ZkWMQpsT9tInvAzPbBmt/xYCrSMEoAdRu4qZ0FtvXo=\""
+          "Value": "\"p5UqW+7sOIrUzfePL7vW+koI0L040Pj3zUIoDg4sbOk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 11:59:04 GMT"
+          "Value": "Tue, 13 May 2025 06:09:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1110,7 +1110,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xa61n5kmkh"
+          "Value": "tw9ifn2cjf"
         },
         {
           "Name": "label",
@@ -1118,7 +1118,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4ZkWMQpsT9tInvAzPbBmt/xYCrSMEoAdRu4qZ0FtvXo="
+          "Value": "sha256-p5UqW+7sOIrUzfePL7vW+koI0L040Pj3zUIoDg4sbOk="
         }
       ]
     },

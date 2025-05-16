@@ -1,16 +1,16 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/SocialNetworkApp/communities.82oxgdvy7m.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\communities.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"82oxgdvy7m"},{"Name":"integrity","Value":"sha256-8DM9eo88ByfacH\u002BQ96WkZDDVNulkV/iIGyiALsP6ZjY="},{"Name":"label","Value":"_content/SocialNetworkApp/communities.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1590"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u00228DM9eo88ByfacH\u002BQ96WkZDDVNulkV/iIGyiALsP6ZjY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 13 May 2025 06:11:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/SocialNetworkApp/communities.html">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\communities.html'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kMWYKR/RlF6maecr/i/vds0Dnl27UK0gxrakkeKDSlM="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1506"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022kMWYKR/RlF6maecr/i/vds0Dnl27UK0gxrakkeKDSlM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 11 May 2025 08:04:00 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/SocialNetworkApp/communities.spxz504pd0.html">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\communities.html'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"spxz504pd0"},{"Name":"integrity","Value":"sha256-kMWYKR/RlF6maecr/i/vds0Dnl27UK0gxrakkeKDSlM="},{"Name":"label","Value":"_content/SocialNetworkApp/communities.html"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1506"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022kMWYKR/RlF6maecr/i/vds0Dnl27UK0gxrakkeKDSlM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 11 May 2025 08:04:00 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-8DM9eo88ByfacH\u002BQ96WkZDDVNulkV/iIGyiALsP6ZjY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1590"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u00228DM9eo88ByfacH\u002BQ96WkZDDVNulkV/iIGyiALsP6ZjY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 13 May 2025 06:11:24 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/SocialNetworkApp/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
@@ -27,14 +27,14 @@
     <StaticWebAssetEndpoint Include="_content/SocialNetworkApp/Index.html">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Index.html'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KUEShZUIRQIrHCYHkNFEFtgxxgP8RWfISI\u002BANNXoTgk="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2078"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022KUEShZUIRQIrHCYHkNFEFtgxxgP8RWfISI\u002BANNXoTgk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 11:59:04 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-U7KVq9UAU763z2Ck8tc6vgT70is8r9xdjNHWD60GPYo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2277"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022U7KVq9UAU763z2Ck8tc6vgT70is8r9xdjNHWD60GPYo=\u0022"},{"Name":"Last-Modified","Value":"Tue, 13 May 2025 06:09:34 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/SocialNetworkApp/Index.xa61n5kmkh.html">
+    <StaticWebAssetEndpoint Include="_content/SocialNetworkApp/Index.tw9ifn2cjf.html">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Index.html'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xa61n5kmkh"},{"Name":"integrity","Value":"sha256-KUEShZUIRQIrHCYHkNFEFtgxxgP8RWfISI\u002BANNXoTgk="},{"Name":"label","Value":"_content/SocialNetworkApp/Index.html"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2078"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022KUEShZUIRQIrHCYHkNFEFtgxxgP8RWfISI\u002BANNXoTgk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 11:59:04 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tw9ifn2cjf"},{"Name":"integrity","Value":"sha256-U7KVq9UAU763z2Ck8tc6vgT70is8r9xdjNHWD60GPYo="},{"Name":"label","Value":"_content/SocialNetworkApp/Index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2277"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022U7KVq9UAU763z2Ck8tc6vgT70is8r9xdjNHWD60GPYo=\u0022"},{"Name":"Last-Modified","Value":"Tue, 13 May 2025 06:09:34 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/SocialNetworkApp/js/communities.gp0uie0nsc.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\communities.js'))</AssetFile>

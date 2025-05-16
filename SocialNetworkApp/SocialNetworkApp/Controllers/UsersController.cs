@@ -64,6 +64,16 @@ namespace SocialNetworkApp.Controllers
             {
                 return Conflict(new { message = "A user with this phone number already exists." });
             }
+            if (user.UserBirth > DateTime.Today.AddYears(-13))
+            {
+                return BadRequest(new { message = "User must be at least 13 years old." });
+            }
+
+            if (user.UserBirth < new DateTime(1900, 1, 1))
+            {
+                return BadRequest(new { message = "Birth date must be after 01.01.1900." });
+            }
+
 
             _context.Users.Add(user);
             await _context.SaveChangesAsync();
@@ -85,6 +95,16 @@ namespace SocialNetworkApp.Controllers
             if (!phoneRegex.IsMatch(user.UserPhone))
             {
                 return BadRequest(new { message = "Phone number must be in the format 380XXXXXXXXX (12 digits)." });
+            }
+
+            if (user.UserBirth > DateTime.Today.AddYears(-13))
+            {
+                return BadRequest(new { message = "User must be at least 13 years old." });
+            }
+
+            if (user.UserBirth < new DateTime(1900, 1, 1))
+            {
+                return BadRequest(new { message = "Birth date must be after 01.01.1900." });
             }
 
             try

@@ -2,22 +2,22 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Communities Management</title>
+    <title>Керування спільнотами</title>
     <link rel="stylesheet" href="css/site.css" />
 </head>
 <body>
-    <h1>Communities</h1>
+    <h1>Спільноти</h1>
 
-    <h3>Add Community</h3>
+    <h3>Додати спільноту</h3>
     <form action="javascript:void(0);" onsubmit="addCommunity()">
-        <input type="text" id="add-name" placeholder="Community Name" required />
-        <input type="text" id="add-description" placeholder="Description" />
+        <input type="text" id="add-name" placeholder="Назва" required />
+        <input type="text" id="add-description" placeholder="Опис" />
         <input type="date" id="add-created-at" />
-        <input type="submit" value="Add" />
+        <input type="submit" value="Додати" />
     </form>
 
     <div id="editForm" style="display:none;">
-        <h3>Edit Community</h3>
+        <h3>Оновити спільноту</h3>
         <form action="javascript:void(0);" onsubmit="updateCommunity()">
             <input type="hidden" id="edit-id" />
             <input type="text" id="edit-name" required />
@@ -33,10 +33,10 @@
     <table>
         <thead>
             <tr>
-                <th>Name</th>
-                <th>Description</th>
-                <th>Created At</th>
-                <th>Actions</th>
+                <th>Назва</th>
+                <th>Опис</th>
+                <th>Дата створення</th>
+                <th>Дії</th>
             </tr>
         </thead>
         <tbody id="communities"></tbody>
